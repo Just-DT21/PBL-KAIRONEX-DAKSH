@@ -1,0 +1,23 @@
+{
+  "name": "KAIRONEXA — Where Ideas Meet Capital",
+  "short_name": "KAIRONEXA",
+  "description": "Connect ambitious founders with investors looking for their next opportunity. A DT21 Venture.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#050507",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/og-image.svg",
+      "sizes": "1200x630",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+
+> venturelink@0.1.0 dev
+> vite
+
+Port 3000 is in use, trying another one...
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m443[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3001[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m9:30:34 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m9:39:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/state/AppContext.tsx[22m
+[2m9:39:05 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/state/AppContext.tsx[22m Could not Fast Refresh ("nowISO" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m9:39:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/Auth.tsx, /src/pages/Discovery.tsx, /src/pages/Landing.tsx, /src/pages/StartupProfile.tsx, /src/pages/Onboarding.tsx, /src/pages/InvestorsPage.tsx, /src/pages/Admin.tsx, /src/pages/InvestorProfilePage.tsx, /src/pages/DashboardPage.tsx, /src/pages/Messages.tsx, /src/components/layout/Navbar.tsx, /src/pages/AIMatchPage.tsx, /src/components/assistant/FloatingAssistant.tsx, /src/components/cards/ConnectButton.tsx, /src/components/dashboard/DashLayout.tsx, /src/components/dashboard/EntCompany.tsx, /src/components/dashboard/EntOverview.tsx, /src/components/dashboard/EntDocuments.tsx, /src/components/dashboard/EntInvestors.tsx, /src/components/dashboard/EntOpportunities.tsx, /src/components/dashboard/InvAIMatch.tsx, /src/components/dashboard/InvSaved.tsx, /src/components/dashboard/EntVerification.tsx, /src/components/dashboard/InvDiscover.tsx, /src/components/cards/StartupCard.tsx, /src/components/cards/InvestorCard.tsx, /src/components/cards/ShowcaseCard.tsx[22m
+[2m9:47:42 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/primitives.tsx[22m
+[2m9:53:25 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/StartupProfile.tsx[22m
+[2m9:55:50 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m9:56:01 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.tsx[22m
+[2m9:56:13 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/platform.css[22m
+[2m9:58:07 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/search/GlobalSearch.tsx[22m
+[2m9:59:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/cards/ConnectButton.tsx[22m
+[2m10:01:41 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/dashboard/DashLayout.tsx[22m
+[2m10:02:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/DashboardPage.tsx[22m
+[2m10:42:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m10:43:08 pm[22m [36m[1m[vite][22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m10:43:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Navbar.tsx[22m
+[2m10:43:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Footer.tsx[22m
+[2m10:43:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Auth.tsx[22m
+[2m10:43:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/state/AppContext.tsx[22m
+[2m10:43:45 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/state/AppContext.tsx[22m Could not Fast Refresh ("nowISO" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m10:43:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/pages/Auth.tsx, /src/pages/Discovery.tsx, /src/pages/Landing.tsx, /src/pages/StartupProfile.tsx, /src/pages/Onboarding.tsx, /src/pages/InvestorsPage.tsx, /src/pages/Admin.tsx, /src/pages/InvestorProfilePage.tsx, /src/pages/DashboardPage.tsx, /src/pages/Messages.tsx, /src/components/layout/Navbar.tsx, /src/pages/AIMatchPage.tsx, /src/components/assistant/FloatingAssistant.tsx, /src/components/cards/ConnectButton.tsx, /src/components/dashboard/DashLayout.tsx, /src/components/dashboard/EntCompany.tsx, /src/components/dashboard/EntOverview.tsx, /src/components/dashboard/EntDocuments.tsx, /src/components/dashboard/EntInvestors.tsx, /src/components/dashboard/EntOpportunities.tsx, /src/components/dashboard/InvAIMatch.tsx, /src/components/dashboard/InvSaved.tsx, /src/components/dashboard/EntVerification.tsx, /src/components/dashboard/InvDiscover.tsx, /src/components/cards/StartupCard.tsx, /src/components/cards/InvestorCard.tsx, /src/components/cards/ShowcaseCard.tsx, /src/components/search/GlobalSearch.tsx[22m
+[2m10:44:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m10:44:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/TrustSafety.tsx[22m
+[2m10:44:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Showcase.tsx[22m
+[2m10:44:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LegalPage.tsx[22m
+[2m10:44:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AIMatchPage.tsx[22m
+[2m10:44:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ui/primitives.tsx[22m
+[2m10:44:11 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/dashboard/EntVerification.tsx[22m
+[2m10:44:26 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/assistant/FloatingAssistant.tsx[22m
+[2m10:44:46 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m10:45:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m10:45:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/hero/HeroEcosystem.tsx[22m
+[2m10:46:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/assistant/FloatingAssistant.tsx[22m
+[2m10:46:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/platform.css[22m
+[2m10:46:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m10:46:29 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AIMatchPage.tsx[22m
+[2m11:26:47 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m11:26:52 pm[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33mgsap, @react-three/fiber[32m[39m
+[2m11:26:52 pm[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m11:27:09 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m11:27:24 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/layout/Footer.tsx[22m
+[2m11:28:00 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/platform.css[22m
+[2m11:28:15 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/platform.css[22m
+[2m11:28:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/GravityCursor.tsx, /src/hero/BlackHole.tsx[22m
+[2m11:28:51 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/hero/BlackHole.tsx[22m Could not Fast Refresh ("detectQuality" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:28:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHoleLazy.tsx[22m
+[2m11:29:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/GravityCursor.tsx, /src/hero/BlackHole.tsx[22m
+[2m11:29:27 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/hero/BlackHole.tsx[22m Could not Fast Refresh ("detectQuality" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:29:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHoleLazy.tsx[22m
+[2m11:30:30 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/GravityCursor.tsx, /src/hero/BlackHole.tsx[22m
+[2m11:30:30 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/hero/BlackHole.tsx[22m Could not Fast Refresh ("detectQuality" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:30:30 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHoleLazy.tsx[22m
+[2m11:31:36 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.css[22m
+[2m11:32:51 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHoleLazy.tsx[22m
+[2m11:33:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHole.tsx[22m
+[2m11:33:18 pm[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/hero/BlackHole.tsx[22m Could not Fast Refresh (export removed)
+[2m11:33:18 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHoleLazy.tsx[22m
+[2m11:36:02 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/GravityCursor.tsx, /src/hero/BlackHole.tsx[22m
+[2m11:37:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHole.tsx[22m
+[2m11:38:03 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHole.tsx[22m
+[2m11:38:55 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHole.tsx[22m
+[2m11:39:22 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/platform.css[22m
+[2m11:45:09 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHole.tsx[22m
+[2m12:06:42 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHole.tsx[22m
+[2m12:47:08 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m12:49:08 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m12:51:08 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m1:22:59 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m1:24:58 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m1:37:34 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/Landing.tsx[22m
+[2m1:43:48 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/GravityCursor.tsx, /src/hero/BlackHole.tsx[22m
+[2m1:44:52 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHole.tsx[22m
+[2m1:45:12 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/GravityCursor.tsx[22m
+[2m1:45:30 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/platform.css[22m
+[2m1:52:18 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/hero/BlackHole.tsx[22m
+[2m1:53:23 am[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/hero/HeroEcosystem.tsx[22m
